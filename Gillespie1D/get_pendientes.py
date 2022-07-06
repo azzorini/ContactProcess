@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 DIRECTORY = "/home/azzorini/Fisica/SistemasComplejos/Trabajo/Pendientes"
-OUTPUT = "landa_vs_pendientes_new.txt"
+OUTPUT = "landa_vs_pendientes.txt"
 
 landas_pendientes = {}
 
