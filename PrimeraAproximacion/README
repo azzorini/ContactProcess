@@ -2,4 +2,4 @@ En este directorio se incluye un código que sirve como primera aproximación pa
 
 En esta aproximación el salto temporal que se toma es simplemente la inversa de los elementos "interesantes" (los activos o los que tienen un vecino activo). Aunque en caso de descartar aleatoriamente el cambio el salto temporal se incrementará de todas formas.
 
-El código permite el cálculo de la densidad estacionaria frente al par
+El código permite el cálculo de la densidad estacionaria frente al parámetro de contro para obtener el coeficiente beta.
