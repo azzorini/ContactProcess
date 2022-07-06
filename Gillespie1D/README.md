@@ -2,7 +2,7 @@ En este directorio se muestran códigos que aplican el algoritmo de Gillespie pa
 
 Los archivos de código que hay se corresponden a las siguientes simulaciones:
 
-1. *Gillespie.cpp:* Simulación en la que simplemente se saca una imagen de la cascada.
+1. **Gillespie.cpp:** Simulación en la que simplemente se saca una imagen de la cascada.
 2. *Gillespie_beta:* (Hilos) Calcula la densidad estacionaria en función del parámetro de control para poder obtener beta.
 3. *GillespieCorrLengthsSub.cpp:* Calcula las longitudes de correlación en función del parámetro de control por debajo del punto crítico partiendo de un estado con una única celda infectada en el centro.
 4. *GillespieCorrLengthsSubHom.cpp:* Mismo que el programa anterior pero solo para la longitud de correlación temporal y partiendo del estado con todas las celdas activas.
